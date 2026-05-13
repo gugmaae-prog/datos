@@ -1,0 +1,6 @@
+first_name,last_name,full_name,email,phone_primary,phone_secondary,phone_tertiary,company,role,source_file,community_type,unit_type,address,city,country,notes,extra_json
+John,Doe,John Doe,john.doe@example.com,971501234567,,,Acme Corp,BUYER,registration_leads.csv,Seaside,Apartments,"123 Ocean Dr","Dubai","UAE","Interested in 2BR units","{\"source\":\"import\"}"
+Jane,Smith,Jane Smith,jane.smith@example.com,971509876543,,,Beta LLC,SELLER,crm_upload.csv,CityCenter,Townhouse,"45 Main St","Abu Dhabi","UAE","Wants valuation","{\"note\":\"priority\"}"
+Ali,Ahmed,Ali Ahmed,ali.ahmed@example.com,2348035170040,,,Gamma Ltd,BUYER,nigeria_leads.csv,,Apartment,"1 Market Rd","Lagos","NG","Phone prefers WhatsApp","{}"
+,NoEmail,No Email,,,+971501112223,,,Delta Inc,BROKER,manual.csv,,,,"Unknown","","Left blank email","{}"
+Test,User,Test User,test.user+spam@example.com,12345678,,,Example Co,OWNER,testfile.csv,,Loft,"10 Test Ave","TestCity","TC","Long note ""needs review""","{}"
